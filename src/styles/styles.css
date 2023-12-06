@@ -1,0 +1,63 @@
+.title {
+  margin-top:0;
+  background: -webkit-linear-gradient(rgb(191,192,194), #333333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.darkFont{
+  color: rgb(51, 51, 51);
+}
+
+.greyBG {
+  background-color: rgb(212, 214, 217);
+}  
+
+.greyFont {
+  color: rgb(212, 214, 217);
+}
+
+
+
+
+
+
+
+/*  Design notes
+Usability goals – effectiveness, efficiency, utility – yes (safety , learnability, memorability – no)
+UX goals – motivating, aesthetically pleasing - yes (satisfying, enjoyable, fun, entertaining, helpful, supportive of creativity, rewarding and emotionally fulfilling – no)
+Design Principles – DONE ->Visibility, Feedback, Constraints, Mapping, Consistency, Affordance. 
+Analogy – shake hands discuss projects and what you want to do, hand over business card so we can chat later. 
+User – programmer/organisation looking for keen talent, wants instant access to my projects and coding highlights
+
+Colours: create pallet 
+
+https://brittanychiang.com/
+https://www.jason.af/
+https://anniebombanie.com/
+https://olaolu.dev/
+
+*/
+
+
+/* SAMPLE CSS NOETES
+font-size: 4vw;
+300 is industry standard for normal, 400 is industry standard for normal, 500 is industry standard for bold
+
+.centre{
+  display: block;
+  align-items: center;
+}
+
+pseudoclass selector.g. a:hover 
+
+font-family: Roboto, sans-serif;
+
+.illustration {
+  max-width: 100%;
+  max-height: var(--image-max-width);
+  cursor: pointer;
+  padding-left: 3.5rem;
+}
+
+*/
